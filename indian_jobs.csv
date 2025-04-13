@@ -1,0 +1,151 @@
+JobID,Title,Description,RequiredSkills,ExperienceLevel,Location,Salary
+1,Software Engineer - TCS,Develop enterprise software solutions using Java and cloud technologies,"Java, Spring Boot, SQL, AWS",Mid,Bengaluru,850000
+2,Data Analyst - Infosys,Analyze business metrics and create reports,"Python, SQL, Excel, Tableau",Entry,Mumbai,450000
+3,DevOps Engineer - Wipro,Implement CI/CD pipelines and cloud infrastructure,"AWS, Docker, Kubernetes, Jenkins",Senior,Hyderabad,1800000
+4,Digital Marketer - Zomato,Manage social media campaigns and SEO,"SEO, Google Analytics, Social Media Marketing",Mid,Delhi,600000
+5,AI Engineer - Flipkart,Build machine learning models for recommendations,"Python, TensorFlow, PyTorch, NLP",Senior,Bengaluru,2200000
+6,UI/UX Designer - Paytm,Design user interfaces for mobile applications,"Figma, Adobe XD, User Research, Prototyping",Entry,Pune,500000
+7,Cybersecurity Specialist - Jio,Implement security protocols for network systems,"Ethical Hacking, Firewalls, CISSP, Networking",Mid,Mumbai,1200000
+8,Product Manager - Byju's,Manage educational tech product lifecycle,"Agile, JIRA, Product Management, UX",Senior,Bengaluru,2500000
+9,Full Stack Developer - Swiggy,Develop food delivery platform features,"React, Node.js, MongoDB, REST APIs",Mid,Hyderabad,1500000
+10,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions,"AWS, Terraform, Network Security, DevOps",Senior,Chennai,2800000
+11,QA Engineer - MakeMyTrip,Ensure software quality through automated testing,"Selenium, JUnit, TestNG, Automation",Entry,Gurgaon,550000
+12,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations,"SQL, Power BI, Business Analysis, Excel",Mid,Bengaluru,900000
+13,Mobile Developer - PhonePe,Develop UPI payment gateway features,"Flutter, Dart, Firebase, REST APIs",Senior,Mumbai,2100000
+14,SEO Specialist - Myntra,Optimize e-commerce product visibility,"SEO, Keyword Research, Google Search Console",Entry,Bengaluru,480000
+15,Data Scientist - BigBasket,Predict inventory requirements using ML models,"Python, Scikit-learn, Pandas, NumPy",Mid,Hyderabad,1400000
+16,Software Expert - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"Spring Boot, AWS, Java, SQL, AWS",Mid,Pune,789828
+17,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"SQL, Python, Tableau, Excel, Excel",Entry,Bengaluru,411071
+18,DevOps Engineer - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"Kubernetes, Docker, AWS, Jenkins, Jenkins",Senior,Chennai,1756993
+19,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"Social Media Marketing, Google Analytics, SEO, Social Media Marketing",Mid,Delhi,615251
+20,AI Engineer - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"Python, TensorFlow, PyTorch, NLP, NLP",Senior,Gurgaon,2154534
+21,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"User Research, Prototyping, Figma, Adobe XD, Figma",Entry,Delhi,513213
+22,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Firewalls, Networking, Ethical Hacking, CISSP, Networking",Mid,Hyderabad,1225081
+23,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"JIRA, Product Management, Agile, UX, Product Management",Senior,Hyderabad,2600791
+24,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"REST APIs, Node.js, MongoDB, React, React",Mid,Mumbai,1597844
+25,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"DevOps, Network Security, Terraform, AWS, Network Security",Senior,Mumbai,2568461
+26,QA Specialist - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"Selenium, Automation, TestNG, JUnit, TestNG",Entry,Hyderabad,507697
+27,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"Power BI, Business Analysis, Excel, SQL, Excel",Mid,Gurgaon,881750
+28,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"Flutter, REST APIs, Dart, Firebase, Flutter",Senior,Mumbai,2006828
+29,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"SEO, Keyword Research, Google Search Console, Google Search Console",Entry,Hyderabad,459077
+30,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"Python, Scikit-learn, Pandas, NumPy, Scikit-learn",Mid,Mumbai,1449436
+31,Software Specialist - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"SQL, Java, AWS, Spring Boot, SQL",Mid,Chennai,931831
+32,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"Tableau, SQL, Excel, Python, Tableau",Entry,Bengaluru,485863
+33,DevOps Specialist - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"Kubernetes, Docker, AWS, Jenkins, Kubernetes",Senior,Mumbai,1678412
+34,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"Social Media Marketing, SEO, Google Analytics, Social Media Marketing",Mid,Delhi,607497
+35,AI Engineer - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"PyTorch, TensorFlow, Python, NLP, PyTorch",Senior,Mumbai,2277184
+36,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"User Research, Figma, Adobe XD, Prototyping, Prototyping",Entry,Hyderabad,545649
+37,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Ethical Hacking, Firewalls, CISSP, Networking, Firewalls",Mid,Chennai,1277984
+38,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"JIRA, Product Management, Agile, UX, Agile",Senior,Hyderabad,2595696
+39,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"Node.js, MongoDB, React, REST APIs, Node.js",Mid,Chennai,1471733
+40,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"Network Security, AWS, DevOps, Terraform, Terraform",Senior,Pune,2891009
+41,QA Developer - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"TestNG, Selenium, JUnit, Automation, Selenium",Entry,Chennai,591796
+42,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"SQL, Power BI, Business Analysis, Excel, Power BI",Mid,Pune,910699
+43,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"Flutter, Firebase, Dart, REST APIs, Firebase",Senior,Chennai,2149121
+44,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"Keyword Research, Google Search Console, SEO, Google Search Console",Entry,Bengaluru,523186
+45,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"Pandas, Python, Scikit-learn, NumPy, Scikit-learn",Mid,Gurgaon,1429250
+46,Software Developer - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"SQL, AWS, Spring Boot, Java, SQL",Mid,Chennai,810669
+47,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"SQL, Excel, Tableau, Python, SQL",Entry,Gurgaon,476658
+48,DevOps Specialist - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"AWS, Kubernetes, Docker, Jenkins, AWS",Senior,Mumbai,1960300
+49,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"Google Analytics, Social Media Marketing, SEO, Google Analytics",Mid,Bengaluru,546013
+50,AI Expert - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"TensorFlow, PyTorch, Python, NLP, TensorFlow",Senior,Mumbai,2180258
+51,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"Prototyping, Figma, User Research, Adobe XD, Figma",Entry,Chennai,498617
+52,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"CISSP, Networking, Firewalls, Ethical Hacking, CISSP",Mid,Gurgaon,1143568
+53,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"Agile, JIRA, UX, Product Management, Agile",Senior,Hyderabad,2509248
+54,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"Node.js, MongoDB, React, REST APIs, REST APIs",Mid,Gurgaon,1390476
+55,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"DevOps, Network Security, AWS, Terraform, DevOps",Senior,Bengaluru,2848849
+56,QA Specialist - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"TestNG, Selenium, Automation, JUnit, Automation",Entry,Gurgaon,525881
+57,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"Power BI, Excel, SQL, Business Analysis, SQL",Mid,Hyderabad,937659
+58,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"Flutter, REST APIs, Dart, Firebase, Flutter",Senior,Chennai,1991108
+59,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"SEO, Google Search Console, Keyword Research, Google Search Console",Entry,Pune,523048
+60,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"Scikit-learn, Python, Pandas, NumPy, NumPy",Mid,Gurgaon,1535633
+61,Software Developer - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"Java, SQL, Spring Boot, AWS, Spring Boot",Mid,Mumbai,894162
+62,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"Tableau, SQL, Python, Excel, Tableau",Entry,Bengaluru,462635
+63,DevOps Specialist - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"Kubernetes, Jenkins, AWS, Docker, Docker",Senior,Chennai,1679044
+64,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"Google Analytics, Social Media Marketing, SEO, SEO",Mid,Hyderabad,601503
+65,AI Specialist - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"PyTorch, TensorFlow, NLP, Python, PyTorch",Senior,Gurgaon,2205432
+66,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"Adobe XD, Figma, User Research, Prototyping, Figma",Entry,Gurgaon,493113
+67,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Ethical Hacking, Firewalls, Networking, CISSP, Firewalls",Mid,Mumbai,1139955
+68,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"Product Management, JIRA, Agile, UX, JIRA",Senior,Chennai,2263932
+69,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"Node.js, React, MongoDB, REST APIs, Node.js",Mid,Mumbai,1641552
+70,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"Terraform, AWS, DevOps, Network Security, Terraform",Senior,Bengaluru,2564999
+71,QA Engineer - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"Selenium, TestNG, JUnit, Automation, Automation",Entry,Mumbai,561557
+72,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"Power BI, Excel, SQL, Business Analysis, Excel",Mid,Delhi,962376
+73,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"Dart, REST APIs, Firebase, Flutter, Dart",Senior,Pune,2106522
+74,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"Keyword Research, SEO, Google Search Console, Keyword Research",Entry,Hyderabad,450486
+75,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"NumPy, Scikit-learn, Pandas, Python, NumPy",Mid,Mumbai,1533672
+76,Software Expert - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"Java, Spring Boot, SQL, AWS, SQL",Mid,Bengaluru,932311
+77,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"Tableau, Python, Excel, SQL, Excel",Entry,Gurgaon,465111
+78,DevOps Specialist - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"Kubernetes, AWS, Docker, Jenkins, Jenkins",Senior,Mumbai,1654535
+79,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"Social Media Marketing, SEO, Google Analytics, SEO",Mid,Bengaluru,634775
+80,AI Developer - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"Python, TensorFlow, NLP, PyTorch, Python",Senior,Chennai,2410739
+81,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"User Research, Figma, Prototyping, Adobe XD, Prototyping",Entry,Gurgaon,529930
+82,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Ethical Hacking, Firewalls, Networking, CISSP, Ethical Hacking",Mid,Bengaluru,1108484
+83,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"UX, Product Management, JIRA, Agile, Agile",Senior,Mumbai,2492165
+84,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"REST APIs, React, MongoDB, Node.js, Node.js",Mid,Gurgaon,1467053
+85,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"DevOps, AWS, Terraform, Network Security, Network Security",Senior,Gurgaon,2784733
+86,QA Engineer - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"Automation, Selenium, JUnit, TestNG, TestNG",Entry,Mumbai,541128
+87,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"SQL, Business Analysis, Excel, Power BI, Power BI",Mid,Chennai,900420
+88,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"Dart, REST APIs, Flutter, Firebase, Dart",Senior,Chennai,2266261
+89,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"SEO, Keyword Research, Google Search Console, SEO",Entry,Bengaluru,462820
+90,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"NumPy, Scikit-learn, Python, Pandas, Pandas",Mid,Mumbai,1480500
+91,Software Expert - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"AWS, Spring Boot, Java, SQL, Spring Boot",Mid,Hyderabad,921640
+92,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"SQL, Excel, Tableau, Python, Tableau",Entry,Hyderabad,448561
+93,DevOps Developer - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"Jenkins, Docker, Kubernetes, AWS, Docker",Senior,Mumbai,1811381
+94,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"SEO, Social Media Marketing, Google Analytics, Social Media Marketing",Mid,Delhi,578531
+95,AI Expert - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"TensorFlow, PyTorch, NLP, Python, TensorFlow",Senior,Hyderabad,2160423
+96,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"Prototyping, Figma, User Research, Adobe XD, Prototyping",Entry,Mumbai,496547
+97,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Firewalls, CISSP, Ethical Hacking, Networking, Ethical Hacking",Mid,Delhi,1198823
+98,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"UX, Agile, JIRA, Product Management, Agile",Senior,Chennai,2653926
+99,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"MongoDB, React, Node.js, REST APIs, REST APIs",Mid,Delhi,1422410
+100,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"Terraform, DevOps, AWS, Network Security, AWS",Senior,Mumbai,2935836
+101,QA Specialist - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"Automation, JUnit, TestNG, Selenium, Selenium",Entry,Chennai,547854
+102,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"Business Analysis, Excel, Power BI, SQL, Business Analysis",Mid,Hyderabad,906810
+103,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"Dart, Firebase, Flutter, REST APIs, Firebase",Senior,Hyderabad,2138349
+104,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"Google Search Console, Keyword Research, SEO, Google Search Console",Entry,Hyderabad,443521
+105,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"NumPy, Scikit-learn, Pandas, Python, Pandas",Mid,Chennai,1449773
+106,Software Expert - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"Java, SQL, Spring Boot, AWS, Java",Mid,Chennai,902582
+107,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"Python, Tableau, Excel, SQL, Python",Entry,Pune,459013
+108,DevOps Expert - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"Docker, AWS, Kubernetes, Jenkins, Docker",Senior,Gurgaon,1871988
+109,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"Google Analytics, Social Media Marketing, SEO, Social Media Marketing",Mid,Pune,569807
+110,AI Specialist - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"TensorFlow, PyTorch, Python, NLP, TensorFlow",Senior,Mumbai,2143616
+111,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"Figma, User Research, Prototyping, Adobe XD, Prototyping",Entry,Pune,472330
+112,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Networking, CISSP, Firewalls, Ethical Hacking, Networking",Mid,Gurgaon,1311378
+113,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"Agile, Product Management, JIRA, UX, Product Management",Senior,Mumbai,2676693
+114,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"REST APIs, React, MongoDB, Node.js, React",Mid,Delhi,1360801
+115,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"Network Security, DevOps, AWS, Terraform, Network Security",Senior,Mumbai,2583973
+116,QA Developer - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"JUnit, Selenium, Automation, TestNG, Selenium",Entry,Delhi,545751
+117,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"Power BI, Business Analysis, Excel, SQL, Business Analysis",Mid,Hyderabad,903104
+118,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"REST APIs, Dart, Firebase, Flutter, Flutter",Senior,Mumbai,2051829
+119,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"Keyword Research, Google Search Console, SEO, Keyword Research",Entry,Delhi,466271
+120,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"Python, Pandas, NumPy, Scikit-learn, Pandas",Mid,Pune,1329224
+121,Software Engineer - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"SQL, Spring Boot, AWS, Java, Java",Mid,Bengaluru,869164
+122,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"Excel, Python, SQL, Tableau, Tableau",Entry,Chennai,470668
+123,DevOps Specialist - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"Kubernetes, Docker, Jenkins, AWS, AWS",Senior,Mumbai,1634021
+124,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"SEO, Social Media Marketing, Google Analytics, SEO",Mid,Mumbai,567419
+125,AI Engineer - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"Python, PyTorch, TensorFlow, NLP, TensorFlow",Senior,Delhi,2025425
+126,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"Adobe XD, Figma, Prototyping, User Research, Adobe XD",Entry,Bengaluru,506165
+127,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Networking, Firewalls, Ethical Hacking, CISSP, Networking",Mid,Hyderabad,1158974
+128,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"Product Management, Agile, JIRA, UX, UX",Senior,Hyderabad,2701571
+129,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"Node.js, REST APIs, MongoDB, React, Node.js",Mid,Mumbai,1428112
+130,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"Terraform, DevOps, Network Security, AWS, DevOps",Senior,Bengaluru,3034729
+131,QA Expert - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"TestNG, Automation, JUnit, Selenium, Automation",Entry,Delhi,529513
+132,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"SQL, Excel, Power BI, Business Analysis, Power BI",Mid,Bengaluru,973746
+133,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"Dart, REST APIs, Flutter, Firebase, REST APIs",Senior,Chennai,2102681
+134,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"Google Search Console, Keyword Research, SEO, Google Search Console",Entry,Mumbai,514319
+135,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"Scikit-learn, Python, NumPy, Pandas, Scikit-learn",Mid,Pune,1460698
+136,Software Developer - TCS,Develop enterprise software solutions using Java and cloud technologies using cutting-edge technologies.,"Java, AWS, SQL, Spring Boot, Spring Boot",Mid,Hyderabad,791342
+137,Data Analyst - Infosys,Analyze business metrics and create reports using cutting-edge technologies.,"SQL, Excel, Tableau, Python, Excel",Entry,Hyderabad,430324
+138,DevOps Specialist - Wipro,Implement CI/CD pipelines and cloud infrastructure using cutting-edge technologies.,"AWS, Jenkins, Docker, Kubernetes, Kubernetes",Senior,Pune,1850087
+139,Digital Marketer - Zomato,Manage social media campaigns and SEO using cutting-edge technologies.,"Social Media Marketing, SEO, Google Analytics, SEO",Mid,Chennai,613478
+140,AI Developer - Flipkart,Build machine learning models for recommendations using cutting-edge technologies.,"PyTorch, TensorFlow, Python, NLP, NLP",Senior,Chennai,2027362
+141,UI/UX Designer - Paytm,Design user interfaces for mobile applications using cutting-edge technologies.,"Adobe XD, Prototyping, Figma, User Research, Figma",Entry,Gurgaon,451773
+142,Cybersecurity Specialist - Jio,Implement security protocols for network systems using cutting-edge technologies.,"Firewalls, Networking, Ethical Hacking, CISSP, CISSP",Mid,Mumbai,1211590
+143,Product Manager - Byju's,Manage educational tech product lifecycle using cutting-edge technologies.,"Agile, JIRA, Product Management, UX, Agile",Senior,Chennai,2591071
+144,Full Stack Developer - Swiggy,Develop food delivery platform features using cutting-edge technologies.,"MongoDB, Node.js, REST APIs, React, Node.js",Mid,Mumbai,1526278
+145,Cloud Architect - Amazon India,Design AWS cloud infrastructure solutions using cutting-edge technologies.,"Terraform, DevOps, AWS, Network Security, DevOps",Senior,Mumbai,2827360
+146,QA Developer - MakeMyTrip,Ensure software quality through automated testing using cutting-edge technologies.,"Automation, JUnit, Selenium, TestNG, Automation",Entry,Mumbai,499497
+147,Business Analyst - Ola,Analyze ride-sharing metrics and optimize operations using cutting-edge technologies.,"SQL, Power BI, Excel, Business Analysis, Business Analysis",Mid,Mumbai,950318
+148,Mobile Developer - PhonePe,Develop UPI payment gateway features using cutting-edge technologies.,"REST APIs, Dart, Firebase, Flutter, Dart",Senior,Hyderabad,2309386
+149,SEO Specialist - Myntra,Optimize e-commerce product visibility using cutting-edge technologies.,"Google Search Console, Keyword Research, SEO, Google Search Console",Entry,Chennai,527008
+150,Data Scientist - BigBasket,Predict inventory requirements using ML models using cutting-edge technologies.,"NumPy, Pandas, Python, Scikit-learn, NumPy",Mid,Gurgaon,1514527
